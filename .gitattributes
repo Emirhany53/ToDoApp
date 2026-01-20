@@ -1,0 +1,7 @@
+/mvnw text eol=lf
+*.cmd text eol=crlf
+# tüm metin dosyaları otomatik normalize olsun
+* text=auto
+
+# mvnw.cmd Windows için CRLF olsun
+mvnw.cmd text eol=crlf
